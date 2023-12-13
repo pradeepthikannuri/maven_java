@@ -2,7 +2,7 @@ package com.pradeepthi.samplejava;
 
 /**
  * Hello world!
- *
+ 
  */
 public class App 
 {
